@@ -31,12 +31,17 @@ ESP32 (Sensor Data) → FastAPI Backend → Database → React Dashboard
 
 ---
 
-## 👨‍💻 My Contributions
-- Built and implemented **REST API using FastAPI** for handling sensor data
-- Integrated **ESP32 data communication with backend API**
-- Managed data flow between IoT device and backend system
-- Assisted in frontend improvements (UI adjustments such as navbar and layout)
-- Collaborated in system integration between hardware, backend, and frontend
+## 👨‍💻 My Contributions (Firli Hanifurahman)
+
+- Developed **backend system using FastAPI** for handling IoT data processing
+- Implemented **authentication system** including login, register, and session handling
+- Integrated **Google OAuth authentication**
+- Built **password reset system using OTP with email integration (Mailtrap)**
+- Designed and implemented **API endpoints for user and sensor data**
+- Processed and calculated **sensor data (temperature, humidity, gas) to determine food condition status**
+- Implemented **access control to restrict unauthorized access to dashboard and monitoring pages**
+- Integrated frontend with backend API for real-time data communication
+- Assisted in UI improvements (navbar and layout adjustments)
 
 ---
 
